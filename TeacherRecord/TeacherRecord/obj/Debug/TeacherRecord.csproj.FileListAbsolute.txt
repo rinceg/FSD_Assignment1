@@ -1,0 +1,11 @@
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\bin\Debug\Storing_Updating_Teacher_Data.exe.config
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\bin\Debug\Storing_Updating_Teacher_Data.exe
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\bin\Debug\Storing_Updating_Teacher_Data.pdb
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\bin\Debug\Newtonsoft.Json.dll
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\bin\Debug\Newtonsoft.Json.xml
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\obj\Debug\TeacherRecord.csprojAssemblyReference.cache
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\obj\Debug\TeacherRecord.csproj.CoreCompileInputs.cache
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\obj\Debug\TeacherRecord.csproj.CopyComplete
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\obj\Debug\Storing_Updating_Teacher_Data.exe
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\obj\Debug\Storing_Updating_Teacher_Data.pdb
+C:\FSDTraining\FSD_Assignment1\TeacherRecord\TeacherRecord\bin\Debug\Data\data.json
